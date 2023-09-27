@@ -7,7 +7,7 @@ export class Navbar extends Component {
         <nav className="navbar navbar-expand-lg bg-light">
           <div className="container-fluid">
             <a className="navbar-brand" href="#">
-              MonkeyNews
+              InstantNews
             </a>
             <button
               className="navbar-toggler"
